@@ -9,8 +9,6 @@ This is a responsive book website designed to provide an optimal viewing and int
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
